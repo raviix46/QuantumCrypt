@@ -1,6 +1,6 @@
-# 🛡️ Quantum Cybersecurity Suite
+# 🛡️ QuantumCrypt
 
-Welcome to the **Quantum Cybersecurity Suite** — a modern Gradio-based application that leverages principles of **quantum key distribution**, **post-quantum encryption**, and **visual quantum tools** to simulate a secure communication pipeline. This project integrates quantum concepts like the **BB84 protocol**, **Fernet key encryption**, and **intrusion detection using quantum circuits**, making it a perfect demonstrator for cybersecurity in the quantum era.
+Welcome to the **QuantumCrypt** — a modern Gradio-based application that leverages principles of **quantum key distribution**, **post-quantum encryption**, and **visual quantum tools** to simulate a secure communication pipeline. This project integrates quantum concepts like the **BB84 protocol**, **Fernet key encryption**, and **intrusion detection using quantum circuits**, making it a perfect demonstrator for cybersecurity in the quantum era.
 
 ---
 
