@@ -1,0 +1,9 @@
+numpy
+gradio
+pennylane
+qiskit
+qiskit-aer
+cryptography
+matplotlib
+qrcode
+pillow
