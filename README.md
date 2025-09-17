@@ -76,13 +76,6 @@ The project is structured into modular components:
 | `compare_original_vs_noisy()`| Compares clean and noisy keys to simulate attacks.                         |
 | `quantum_random_number()`    | Returns single random bit using Qiskit’s simulator.                         |
 
----
-
-## 📷 Screenshots
-
-| QKD Key Generation | Encryption & QR | Randomness Visualizer |
-|--------------------|-----------------|------------------------|
-| ![qkd](screenshots/qkd.png) | ![encrypt](screenshots/encrypt.png) | ![randomness](screenshots/randomness.png) |
 
 ---
 
